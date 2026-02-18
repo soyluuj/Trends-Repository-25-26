@@ -1,0 +1,56 @@
+header {
+    text-align: center;
+    margin: 280px;
+    font-size: 50px;
+}
+
+article {
+    max-width: 750px;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 50px;
+}
+
+.short-introduction{
+    display: grid;
+    grid-template-columns: auto auto;
+    place-items: center;
+}
+
+.short-introduction img{
+    width: 350px;
+    border-radius: 25%;
+}
+
+.short-introduction h3{
+    max-width: 300px;
+    font-size: 25px;
+}
+
+.introduction{
+    max-width: 600px;
+    text-align: center;
+    margin: 50px auto 50px auto;
+    font-size: 20px;
+}
+
+figcaption {
+    text-align: center;
+    padding: 10px;
+}
+
+li{
+    padding: 20px;
+}
+
+.hobbies p {
+    padding-bottom: 20px;
+}
+
+article img {
+    width: 400px;
+    border-radius: 20%;
+    display: block;
+    margin: 0 auto;
+}
+
